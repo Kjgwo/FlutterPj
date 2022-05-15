@@ -14,9 +14,9 @@ class Dice extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text("Dice game page",
-            style: TextStyle(
-              fontSize: 15.0,
-            ),
+              style: TextStyle(
+                fontSize: 15.0,
+              ),
             ),
           ],
         ),
